@@ -1,0 +1,6 @@
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\bin\Debug\TCP客户端.exe.config
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\bin\Debug\TCP客户端.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\bin\Debug\TCP客户端.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\obj\Debug\TCP客户端.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\obj\Debug\TCP客户端.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\TCP客户端\obj\Debug\TCP客户端.csprojResolveAssemblyReference.cache

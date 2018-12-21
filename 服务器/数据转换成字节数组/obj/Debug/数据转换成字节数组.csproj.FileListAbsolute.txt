@@ -1,0 +1,6 @@
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\bin\Debug\数据转换成字节数组.exe.config
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\bin\Debug\数据转换成字节数组.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\bin\Debug\数据转换成字节数组.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\obj\Debug\数据转换成字节数组.csprojResolveAssemblyReference.cache
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\obj\Debug\数据转换成字节数组.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\数据转换成字节数组\obj\Debug\数据转换成字节数组.pdb

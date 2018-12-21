@@ -1,0 +1,8 @@
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\bin\Debug\MySQL数据库操作.exe.config
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\bin\Debug\MySQL数据库操作.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\bin\Debug\MySQL数据库操作.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\bin\Debug\MySql.Data.dll
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\bin\Debug\MySql.Data.xml
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\obj\Debug\MySQL数据库操作.csprojResolveAssemblyReference.cache
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\obj\Debug\MySQL数据库操作.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\MySQL数据库操作\obj\Debug\MySQL数据库操作.pdb
